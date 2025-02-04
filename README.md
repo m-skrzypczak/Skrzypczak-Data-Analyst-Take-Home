@@ -35,7 +35,8 @@ Open-ended questions: for these, make assumptions and clearly state them when an
 
     Who are Fetch’s power users?
         Query can be found in the Fetch' Power Users.sql file with notes and assumptions
-        Answer: Power Users were defined as users with 3 transactions. The query will produce a list of all user_ids and their total number of transactions, with a minimum of 0 and a maximum of 3
+        Answer: Power Users were defined as users with 3 transactions. The query will produce a list of all user_ids and
+        their total number of transactions, with a minimum of 0 and a maximum of 3
         
     Which is the leading brand in the Dips & Salsa category?
         Query can be found in the Dips & Salsa Leading Brand.sql file with notes and assumptions
@@ -43,4 +44,6 @@ Open-ended questions: for these, make assumptions and clearly state them when an
         
     At what percent has Fetch grown year over year?
         Query can be found in the Fetch Growth YoY.sql file with notes and assumptions
-        Answer: The table produced by the query with show the year, new users, the previous year's total users, and the % increase, comparing this year's new userd to the last year's total users. 2017 showed the largest percentage growth at 4227% but 2022 showed the largest number of new users at 26,811
+        Answer: The table produced by the query with show the year, new users, the previous year's total users, and the %
+        increase, comparing this year's new userd to the last year's total users. 2017 showed the largest percentage growth
+        at 4227% but 2022 showed the largest number of new users at 26,811
