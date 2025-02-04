@@ -24,14 +24,23 @@ Closed-ended questions:
         
     What is the percentage of sales in the Health & Wellness category by generation?
         Query can be found in the Percent H&W by generation.sql file with notes and assumptions
-        Answer: ![image](https://github.com/user-attachments/assets/309cafbc-29cd-48cc-b047-0880e6fefe6b)
+        Answer: Generations were determined using a 20-year window 
+                1940-1959: 65.07%
+                1960-1979: 43.39%
+                1980-1999: 51.14%
+                No birthdate value: 60.4%
 
 
 Open-ended questions: for these, make assumptions and clearly state them when answering the question.
 
     Who are Fetch’s power users?
         Query can be found in the Fetch' Power Users.sql file with notes and assumptions
+        Answer: Power Users were defined as users with 3 transactions. The query will produce a list of all user_ids and their total number of transactions, with a minimum of 0 and a maximum of 3
+        
     Which is the leading brand in the Dips & Salsa category?
         Query can be found in the Dips & Salsa Leading Brand.sql file with notes and assumptions
+        Answer: The leading brand based on total quantity was Tostitos with a quantity of 60
+        
     At what percent has Fetch grown year over year?
         Query can be found in the Fetch Growth YoY.sql file with notes and assumptions
+        Answer: The table produced by the query with show the year, new users, the previous year's total users, and the % increase, comparing this year's new userd to the last year's total users. 2017 showed the largest percentage growth at 4227% but 2022 showed the largest number of new users at 26,811
