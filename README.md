@@ -34,7 +34,7 @@ Closed-ended questions:
 Open-ended questions: for these, make assumptions and clearly state them when answering the question.
 
     Who are Fetch’s power users?
-        Query can be found in the Fetch' Power Users.sql file with notes and assumptions
+        Query can be found in the Fetch's Power Users.sql file with notes and assumptions
         Answer: Power Users were defined as users with 3 transactions. The query will produce a list of all user_ids and
         their total number of transactions, with a minimum of 0 and a maximum of 3
         
@@ -46,4 +46,14 @@ Open-ended questions: for these, make assumptions and clearly state them when an
         Query can be found in the Fetch Growth YoY.sql file with notes and assumptions
         Answer: The table produced by the query with show the year, new users, the previous year's total users, and the %
         increase, comparing this year's new userd to the last year's total users. 2017 showed the largest percentage growth
-        at 4227% but 2022 showed the largest number of new users at 26,811
+        at 427% but 2022 showed the largest number of new users at 26,811
+
+Third: communicate with stakeholders
+Construct an email or slack message that is understandable to a product or business leader who is not familiar with your day-to-day work. Summarize the results of your investigation. Include:
+
+    Key data quality issues and outstanding questions about the data
+    One interesting trend in the data
+        Use a finding from part 2 or come up with a new insight
+    Request for action: explain what additional help, info, etc. you need to make sense of the data and resolve any outstanding issues
+
+The email, prepared for fictional stakeholder Kim, can be found in the Fetch Email.pdf file
