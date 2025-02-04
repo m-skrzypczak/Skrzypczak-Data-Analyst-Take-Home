@@ -7,7 +7,7 @@ Review the unstructured csv files and answer the following questions with code t
     Are there any data quality issues present?
     Are there any fields that are challenging to understand?
 
-Responses to this Exerecise can be found in the Fetch Assessment Data Quality Issues.pdf file
+Responses to this Exercise can be found in the Fetch Assessment Data Quality Issues.pdf file
 
 
 Second: provide SQL queries
